@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @macemke4130
 - 👀 I’m interested in Code and Bicycles
-- 🌱 I’m currently learning GraphQL and Styled Components in React
+- 🌱 I’m currently learning Regular Expressions in Javascript
 - 📫 I can be reached at lucasmace4130@gmail.com
