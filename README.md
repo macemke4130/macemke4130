@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @macemke4130
-- You can view my portfolio here: [lucasmace.com](http://www.lucasmace.com/)
+- You can view my portfolio here: [lucasmace.com](https://www.lucasmace.com/)
 - 👀 I’m interested in Code and Bicycles
-- 🌱 I’m currently learning Next.JS and Regular Expressions
 - 📫 I can be reached at lucasmace4130@gmail.com
