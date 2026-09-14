@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @macemke4130
 - You can view my portfolio here: [lucasmace.com](https://www.lucasmace.com/)
 - 👀 I’m interested in Code and Bicycles
-- 📫 I can be reached at lucasmace4130@gmail.com
+- 📫 I can be reached at hello@lucasmace.com
